@@ -1,5 +1,7 @@
 # SSMAE_IGARSS2025
+This code is for **Sample Similarity-Guided Spatial-Spectral Masked Autoencoder for Hyperspectral Anomaly Detection**
 
+The paper link is **https://doi.org/10.1109/IGARSS55030.2025.11242636**
 ~~~
 @inproceedings{zhao2025sample,
   title={Sample Similarity-Guided Spatial-Spectral Masked Autoencoder for Hyperspectral Anomaly Detection},
